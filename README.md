@@ -30,5 +30,5 @@ Outils et technologies utilisées
 | **Python (pandas, numpy, seaborn, matplotlib, statsmodels)** | Analyse et modélisation |
 | **Google Colab** | Exécution collaborative des notebooks |
 | **GitHub** | Gestion de version et partage du code |
-| **Microsoft 365 (Word, PowerPoint, Excel)** | Rédaction du rapport et présentation |
-| **Teams / OneDrive** | Communication et stockage de fichiers |
+| **Microsoft 365 (Word, PowerPoint, )** | Rédaction du rapport et présentation |
+| **Teams ** | Communication et stockage de fichiers |
