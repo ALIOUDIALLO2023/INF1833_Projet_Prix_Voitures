@@ -31,4 +31,4 @@ Outils et technologies utilisées
 | **Google Colab** | Exécution collaborative des notebooks |
 | **GitHub** | Gestion de version et partage du code |
 | **Microsoft 365 (Word, PowerPoint, )** | Rédaction du rapport et présentation |
-| **Teams ** | Communication et stockage de fichiers |
+| **Teams** | Communication et stockage de fichiers |
